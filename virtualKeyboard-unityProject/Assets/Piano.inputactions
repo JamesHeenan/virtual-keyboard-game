@@ -1,0 +1,1475 @@
+{
+    "name": "Piano",
+    "maps": [
+        {
+            "name": "PianoKeys",
+            "id": "8719412b-0e29-4112-ae3e-008e89f0c19b",
+            "actions": [
+                {
+                    "name": "m24",
+                    "type": "Button",
+                    "id": "14babb36-0070-4acd-8007-9969c2659a7f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m23",
+                    "type": "Button",
+                    "id": "ee1fd2d8-674a-4b4d-8dda-878bef220dd4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m22",
+                    "type": "Button",
+                    "id": "a47ab474-8020-4017-aa24-1b4e6f62d227",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m21",
+                    "type": "Button",
+                    "id": "24ae0f04-46ae-4921-bd5d-b8d14fab7f19",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m20",
+                    "type": "Button",
+                    "id": "5be71e6a-4acb-417a-b16b-c9c558416c90",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m19",
+                    "type": "Button",
+                    "id": "7aded76e-4217-4756-b4f0-93b6b7027542",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m18",
+                    "type": "Button",
+                    "id": "c92ffeac-0144-4167-a3e0-e3d3dc7d20b3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m17",
+                    "type": "Button",
+                    "id": "e011cff5-d72e-4909-83e9-46d2c236cf16",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m16",
+                    "type": "Button",
+                    "id": "abd0a025-6846-4cdd-ba76-0032dc8a36ad",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m15",
+                    "type": "Button",
+                    "id": "32d01d07-5f2a-4142-b699-e1e1b75160b7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m14",
+                    "type": "Button",
+                    "id": "0aeb036e-4db2-45b6-8111-42c1cd34962e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m13",
+                    "type": "Button",
+                    "id": "7463a821-c264-4977-ab4e-d0dd2c8c0a74",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m12",
+                    "type": "Button",
+                    "id": "80ed1ce7-f22a-4fb6-9093-b779ebb82f63",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m11",
+                    "type": "Button",
+                    "id": "da18f124-6fb8-4544-b123-3afdad8a28b0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m10",
+                    "type": "Button",
+                    "id": "9a577c8b-c611-47e2-9504-69688ac76fd0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m9",
+                    "type": "Button",
+                    "id": "3661aa71-f61d-4669-acef-4fbff1388960",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m8",
+                    "type": "Button",
+                    "id": "3b463fb7-46e0-4662-9376-ba43ae2e6fe8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m7",
+                    "type": "Button",
+                    "id": "d590c8a8-a19e-4527-bb3a-9e150a397c57",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m6",
+                    "type": "Button",
+                    "id": "b8155639-03dd-4143-9d51-37c033e1e647",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m5",
+                    "type": "Button",
+                    "id": "a190ace0-22e1-4756-adda-221677b40ee5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m4",
+                    "type": "Button",
+                    "id": "beccfddb-9cd9-4d89-a6c1-62272d2cdfe1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m3",
+                    "type": "Button",
+                    "id": "17b690fd-ad32-4ebf-a6c8-a83713536573",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m2",
+                    "type": "Button",
+                    "id": "c88b0aef-eb6e-4f46-92b7-2bdd22cabedb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "m1",
+                    "type": "Button",
+                    "id": "3cc5c9ab-2aca-4b73-8496-323462467abb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "0",
+                    "type": "Button",
+                    "id": "56a28fc3-3f01-45c6-bceb-75cb09699824",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "1",
+                    "type": "Button",
+                    "id": "997cce48-f659-4725-b9d6-a9cc8be314c6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "2",
+                    "type": "Button",
+                    "id": "11788776-0381-4519-b611-469fa3d28a83",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "3",
+                    "type": "Button",
+                    "id": "f9db95a7-6d51-4b61-8643-894080b77c81",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "4",
+                    "type": "Button",
+                    "id": "0992a320-4f0e-40cc-b2dd-6af62a163016",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "5",
+                    "type": "Button",
+                    "id": "97c4e3fc-70d9-44b0-9a07-0f3c57af3fb4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "6",
+                    "type": "Button",
+                    "id": "b9a00508-5e83-4d49-b3ab-06d4186abdca",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "7",
+                    "type": "Button",
+                    "id": "9eff0e92-a081-42bf-9834-76ccfbd58d35",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "8",
+                    "type": "Button",
+                    "id": "1e652da7-16e5-4d4e-ae06-79bede767ab5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "9",
+                    "type": "Button",
+                    "id": "41350226-9853-45d4-8ff5-d0690490fffe",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "10",
+                    "type": "Button",
+                    "id": "d685c13d-0ced-43b1-9ffb-6e41085f8c64",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "11",
+                    "type": "Button",
+                    "id": "820eb7b3-52ee-43a1-acb7-6cef490d40de",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "12",
+                    "type": "Button",
+                    "id": "c34520fa-ce20-4746-ba24-0b659a86cdde",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "13",
+                    "type": "Button",
+                    "id": "c4a69c3b-f02a-46ba-9e53-93fa7a9505bd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "14",
+                    "type": "Button",
+                    "id": "fd208cca-8a3a-42f0-9431-22ce77e470d2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "15",
+                    "type": "Button",
+                    "id": "f7c7aa92-aa52-4742-94a2-9ac92aadb127",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "16",
+                    "type": "Button",
+                    "id": "de5e3b11-2760-4f4d-81e7-61e90a164f4b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "17",
+                    "type": "Button",
+                    "id": "807bd963-c82d-45d8-ada6-1635fe4fc8b1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "18",
+                    "type": "Button",
+                    "id": "be4efc39-6122-421e-9b1d-fa48b99c9529",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "19",
+                    "type": "Button",
+                    "id": "34ef5125-b499-4fcd-ba4b-00fa946ddb70",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "20",
+                    "type": "Button",
+                    "id": "443b9788-09be-449c-8062-a7125f2b066f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "21",
+                    "type": "Button",
+                    "id": "9560853f-53a6-4d0e-89e3-7d71355afa0b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "22",
+                    "type": "Button",
+                    "id": "c3843dad-99c6-4473-951e-74934ab0f73a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "23",
+                    "type": "Button",
+                    "id": "e9996773-65a9-4f3b-b936-271c285ddf11",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "24",
+                    "type": "Button",
+                    "id": "8c7abe07-0693-4c0e-8c77-2cbf9a14cf98",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "25",
+                    "type": "Button",
+                    "id": "7ec3128a-e246-4c62-80b3-5a3f191558a5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "26",
+                    "type": "Button",
+                    "id": "cc9b1154-2e0f-4d92-8484-6f3717d6995f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "27",
+                    "type": "Button",
+                    "id": "dfba2aa2-6d97-446f-bbfc-a653faf24a03",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "28",
+                    "type": "Button",
+                    "id": "c4954fb0-9647-45b1-b5ad-1007e650234e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "29",
+                    "type": "Button",
+                    "id": "b4fe63d4-aa31-4303-9e60-f6c5cc52f236",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "30",
+                    "type": "Button",
+                    "id": "7b8086f4-89bf-470f-b211-97e6928e1226",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "31",
+                    "type": "Button",
+                    "id": "4e33d38b-d63b-43df-b5eb-f757ad634201",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "32",
+                    "type": "Button",
+                    "id": "35306adf-1623-4016-9582-c4cef74bdf62",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "33",
+                    "type": "Button",
+                    "id": "2bce4982-6fe6-44cc-9c86-d72ccba495ad",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "34",
+                    "type": "Button",
+                    "id": "7dec49ee-261d-42ba-9cfe-9e3b792f0add",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "35",
+                    "type": "Button",
+                    "id": "cda8adc0-50fb-4e85-9538-a29a734a5d1e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "36",
+                    "type": "Button",
+                    "id": "738572c3-c99c-4a2c-b564-af4b4c7a7ff8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "OctaveChange",
+                    "type": "Value",
+                    "id": "ada0a8a6-3df4-403d-97ab-0b8a30d182f3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4a0114bd-7432-4176-927a-b30104798fbf",
+                    "path": "<MidiDevice>/note060",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6dedf920-a1b5-4df3-8e24-97c3177c5bcb",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "737496d0-c2c9-4eff-861e-e2c6ef3144ab",
+                    "path": "<MidiDevice>/note061",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "81ef42f5-2dcd-40b7-8025-be5fefa2a264",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "eda9f8c8-e6d2-4be1-8bf6-a8d0f956663a",
+                    "path": "<MidiDevice>/note062",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f41dab24-2656-4061-96e3-9fbba7e4af9b",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0583c430-989c-4e99-804d-3a4ba2943aa2",
+                    "path": "<MidiDevice>/note063",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c7c05d1a-f5ca-4715-bb83-fa22976807d6",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3102575c-e749-4566-8fbe-56e1a0c4fd04",
+                    "path": "<MidiDevice>/note064",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3997edfe-0a61-4526-9364-8426793c34c0",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cbcbda39-59ad-4bed-8ce3-d49391ad93ef",
+                    "path": "<MidiDevice>/note065",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9088c060-bfec-4b2b-a9c5-0aaa3f74de55",
+                    "path": "<Keyboard>/v",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "98ffa414-a61a-469f-897b-9687a76564ad",
+                    "path": "<MidiDevice>/note066",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3db92470-f0cb-48e7-908d-e3b5bf2f0f71",
+                    "path": "<Keyboard>/g",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "986363a3-32c0-41ac-b3f3-21ffe1061244",
+                    "path": "<MidiDevice>/note067",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "7",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "11c2b2dc-8b4f-4ba9-b032-87517a5fff0d",
+                    "path": "<Keyboard>/b",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "7",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e68d77d1-b8b9-41eb-8534-b846701fa096",
+                    "path": "<MidiDevice>/note068",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "8",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "579fabff-5a18-4575-865f-f1a9abdca847",
+                    "path": "<Keyboard>/h",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "8",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "27ea028a-cffa-414a-9ada-1607599ef0a5",
+                    "path": "<MidiDevice>/note069",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "9",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fecff48d-9923-4021-98c5-a180fecbb043",
+                    "path": "<Keyboard>/n",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "9",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "be54dfba-b7b4-4c3e-afd0-d3284167d1cc",
+                    "path": "<MidiDevice>/note070",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "10",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "04506492-8daa-4ae5-822a-b17ad0c98d4d",
+                    "path": "<Keyboard>/j",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "10",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1d6672c3-2793-4e85-86d6-94ce7dcf4e82",
+                    "path": "<MidiDevice>/note071",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "11",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a41b9992-332a-4c68-927a-3b35f3c33561",
+                    "path": "<Keyboard>/m",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "11",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f18df7dc-3ccd-403c-863d-91fad323e59e",
+                    "path": "<MidiDevice>/note072",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "12",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "67adab19-2429-4a95-b6ff-7e7e474cc06c",
+                    "path": "<Keyboard>/comma",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "12",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "62ea4572-2ee4-4fc4-ab46-62c22aab50a4",
+                    "path": "<MidiDevice>/note073",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "13",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d4e70a3c-9001-4c0f-8863-85093d4e18cb",
+                    "path": "<Keyboard>/l",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "13",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6490686e-4978-4cdd-9ab2-6ffb9766290e",
+                    "path": "<MidiDevice>/note074",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "14",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "76a45eaa-9c80-4135-ab7d-16f516eb9a6b",
+                    "path": "<Keyboard>/period",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "14",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "26fad119-e358-4ff6-be09-51f0325d86cb",
+                    "path": "<MidiDevice>/note075",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "15",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5fb328a7-ccdd-4a0e-8a3e-7128fc53b171",
+                    "path": "<Keyboard>/semicolon",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "15",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8d4feeac-2ad8-480b-95d9-a4a00c4517d0",
+                    "path": "<MidiDevice>/note076",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "16",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "49200f9b-53dc-4f07-86fe-ecf15f607ecc",
+                    "path": "<Keyboard>/slash",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "16",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5c53b8a5-17ae-48a5-85d0-8397b3ee5c52",
+                    "path": "<MidiDevice>/note036",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m24",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "81571d49-0545-4d5e-8b54-eaffeef91d0d",
+                    "path": "<MidiDevice>/note059",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6b72a72c-fd0a-4042-9ff6-02a511a9d0b1",
+                    "path": "<MidiDevice>/note058",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cd981e32-c747-435c-aa3a-fab88401535f",
+                    "path": "<MidiDevice>/note057",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1a4cd59b-1ce6-4e48-9d0e-4c8db66b424a",
+                    "path": "<MidiDevice>/note056",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "00793bfd-f864-4a3a-9fa1-1dd35e9717e1",
+                    "path": "<MidiDevice>/note055",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "06b958b0-373a-4969-b994-68af1398779c",
+                    "path": "<MidiDevice>/note054",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3dc50efe-ade0-4b87-8399-fed29bf886a0",
+                    "path": "<MidiDevice>/note053",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m7",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "845987a8-7397-4637-ba2e-ad16a62b2395",
+                    "path": "<MidiDevice>/note052",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m8",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e81f6e36-a1ee-42a0-9916-a723359a14f9",
+                    "path": "<MidiDevice>/note051",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m9",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e246ffac-835f-41e8-89a5-4a35d44ca1f8",
+                    "path": "<MidiDevice>/note050",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m10",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "43deb4f1-10ea-4029-8a34-8e88afb69ebe",
+                    "path": "<MidiDevice>/note049",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m11",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2313c5dc-f26b-4669-8dd2-05a767ec78f7",
+                    "path": "<MidiDevice>/note048",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m12",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e9d47d92-d8f0-40f1-98c7-1073c6216139",
+                    "path": "<MidiDevice>/note047",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m13",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cad1759e-0b73-4fe4-8a57-1d5229cd64e6",
+                    "path": "<MidiDevice>/note046",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m14",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b529c655-9768-4ce2-8bed-09a9f724fef9",
+                    "path": "<MidiDevice>/note045",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m15",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "825ccb55-2267-412f-8b41-a6798bc520d3",
+                    "path": "<MidiDevice>/note044",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m16",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dd857c5f-0d3f-42de-a57e-41de50f1de90",
+                    "path": "<MidiDevice>/note043",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m17",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "76c5e943-d319-4c0a-9927-7f5d108e8fb8",
+                    "path": "<MidiDevice>/note042",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m18",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "87fc99c2-fd9d-4765-8b99-ad57929d921c",
+                    "path": "<MidiDevice>/note041",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m19",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e7af4311-5bf6-4971-8ff4-84d56d3100f3",
+                    "path": "<MidiDevice>/note040",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m20",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "801d7cca-3999-4840-b5ea-b2e6ba99282f",
+                    "path": "<MidiDevice>/note039",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m21",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f327ca01-01ae-4b6e-a667-9e60e11ea531",
+                    "path": "<MidiDevice>/note038",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m22",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f584be7a-70aa-48fc-8243-5ff2f8e156c0",
+                    "path": "<MidiDevice>/note037",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "m23",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "72aa0649-512d-4045-9658-166d4823ca20",
+                    "path": "<MidiDevice>/note077",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "17",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d0c07e06-f7a1-414c-b748-e13c46c4291c",
+                    "path": "<MidiDevice>/note078",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "18",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fde2da41-78a5-4ba9-b6c4-97aa7f33d59b",
+                    "path": "<MidiDevice>/note079",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "19",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ae735491-e5f3-4e21-918f-bc526b63ea5a",
+                    "path": "<MidiDevice>/note080",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "20",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ca2dc4fb-1b0b-4e5f-9d65-f4f49f5ea211",
+                    "path": "<MidiDevice>/note081",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "21",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6740994a-9304-4269-a8b5-9922c7fe0c22",
+                    "path": "<MidiDevice>/note082",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "22",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e97df90d-2dd3-4a1d-b604-a2afa8264177",
+                    "path": "<MidiDevice>/note083",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "23",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "64cc4e1e-bd34-44db-8533-865897bdae9f",
+                    "path": "<MidiDevice>/note084",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "24",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0889911e-1f91-4af7-b658-7643dd7f7012",
+                    "path": "<MidiDevice>/note085",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "25",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8f7fcc65-dea1-4a1f-89ed-ddabcadb7a61",
+                    "path": "<MidiDevice>/note086",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "26",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aee038fa-3066-4ef1-a9bc-245eb69a19bb",
+                    "path": "<MidiDevice>/note087",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "27",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "40c8132d-c8fe-4fb4-8622-7aa0f3746a31",
+                    "path": "<MidiDevice>/note088",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "28",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "73acac0e-081d-413e-b048-9c6138c1f077",
+                    "path": "<MidiDevice>/note089",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "29",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "912d5821-9b22-4620-9df6-1137015c77cf",
+                    "path": "<MidiDevice>/note090",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "30",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5ad89bbc-789b-4a5e-a984-e3acd8af9585",
+                    "path": "<MidiDevice>/note091",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "31",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "70fed6d3-cba0-49aa-bc30-768a024baefe",
+                    "path": "<MidiDevice>/note092",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "32",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "19bdada1-7f0a-4083-a6d9-10b3a9e9fd47",
+                    "path": "<MidiDevice>/note093",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "33",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c9fe7c0d-f5f0-4eab-9081-df96321d586b",
+                    "path": "<MidiDevice>/note094",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "34",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fc7252ad-f019-4f4a-9d60-8b41c0de18e5",
+                    "path": "<MidiDevice>/note095",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "35",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "90d60240-c24b-49db-817a-e1fe14755284",
+                    "path": "<MidiDevice>/note096",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Piano",
+                    "action": "36",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "1D Axis",
+                    "id": "9337634a-0d38-45f3-ac99-bf2e004d902c",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OctaveChange",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "7b40fc6a-7f40-4e95-90e5-313b9eee9574",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OctaveChange",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "7daa92fc-c9bc-4c9a-aeea-6005d1e31793",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OctaveChange",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Piano",
+            "bindingGroup": "Piano",
+            "devices": [
+                {
+                    "devicePath": "<MidiDevice>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
